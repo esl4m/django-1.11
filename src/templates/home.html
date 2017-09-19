@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block head_title %} Welcome || {{block.super}} {% endblock head_title %}
+
+{% block content %}
+    <h1>Hello djBird 2</h1>
+        This is {{ html_var }} coming ..
+    <p>
+        This is <code> {% verbatim %} {{ html_var }} {% endverbatim %} </code>
+    </p>
+{% endblock content %}
