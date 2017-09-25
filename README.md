@@ -1,1 +1,2 @@
-# DjBird -- Django Bird (Based on Django 1.11)
+# DjBird -- Django Bird
+## (Based on Django 1.11)
