@@ -16,8 +16,8 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from django.views.generic import TemplateView
-
 from Bird2.views import HomeView
+
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
