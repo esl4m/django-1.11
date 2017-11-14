@@ -1,6 +1,8 @@
-from django.shortcuts import render
+#  views.py
+#  by: Islam Diaa
+#      04 Oct 2017
+#
 from django.views.generic import TemplateView
-from django.views import View
 
 
 # Create your views here.
