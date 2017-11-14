@@ -2,7 +2,6 @@
 #  by: Islam Diaa
 #      04 Oct 2017
 #
-
 from django.db import models
 
 
